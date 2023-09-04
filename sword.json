@@ -1,0 +1,84 @@
+[
+  {
+    "nama_pedang": "Angin Sakti",
+    "level": 1,
+    "harga": 1000,
+    "efek": "Wind",
+    "damage": 50,
+    "penggunaan_stamina": 10
+  },
+  {
+    "nama_pedang": "Keris Muntah Paku",
+    "level": 2,
+    "harga": 2000,
+    "efek": "Poison",
+    "damage": 70,
+    "penggunaan_stamina": 10
+  },
+  {
+    "nama_pedang": "Sword of Slebew",
+    "level": 3,
+    "harga": 2700,
+    "efek": "Ice",
+    "damage": 100,
+    "penggunaan_stamina": 10
+  },
+  {
+    "nama_pedang": "Este of 2 Cup",
+    "level": 4,
+    "harga": 4000,
+    "efek": "Water",
+    "damage": 150,
+    "penggunaan_stamina": 15
+  },
+  {
+    "nama_pedang": "Coli Balsem",
+    "level": 5,
+    "harga": 5000,
+    "efek": "Fire",
+    "damage": 200,
+    "penggunaan_stamina": 20
+  },
+  {
+    "nama_pedang": "Nitya",
+    "level": 6,
+    "harga": 7000,
+    "efek": "Wind",
+    "damage": 300,
+    "penggunaan_stamina": 15
+  },
+  {
+    "nama_pedang": "sword.py",
+    "level": 7,
+    "harga": 8500,
+    "efek": "Poison",
+    "damage": 500,
+    "penggunaan_stamina": 30
+  },
+  {
+    "nama_pedang": "Aice",
+    "level": 8,
+    "harga": 10000,
+    "efek": "Ice",
+    "damage": 600,
+    "penggunaan_stamina": 30
+  },
+  {
+    "nama_pedang": "Sasak Runtuh",
+    "level": 7,
+    "harga": 20000,
+    "efek": "Water",
+    "damage": 750,
+    "penggunaan_stamina": 30
+  },
+  {
+    "nama_pedang": "Zia",
+    "level": 7,
+    "harga": 20000,
+    "efek": "Fire",
+    "damage": 1000,
+    "penggunaan_stamina": 100
+  },
+  
+  
+]
